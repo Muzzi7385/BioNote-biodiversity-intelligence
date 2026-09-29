@@ -1,4 +1,4 @@
-# Darukaa Biodiversity Intelligence
+# BioNote - Biodiversity Intelligence
 
 AI-powered environmental intelligence and biodiversity recommendation system. It accepts environmental information through natural-language conversation and structured environmental-state input and produces evidence-backed recommendations grounded in a retrieval-augmented knowledge base of scientific documents (IPCC, FAO), rather than in an LLM's unchecked internal knowledge.
 
